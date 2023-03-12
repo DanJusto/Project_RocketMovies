@@ -1,0 +1,6 @@
+[submodule "RocketMovies"]
+	path = RocketMovies
+	url = https://github.com/DanJusto/RocketMovies
+[submodule "API_Movies"]
+	path = API_Movies
+	url = https://github.com/DanJusto/API_Movies
